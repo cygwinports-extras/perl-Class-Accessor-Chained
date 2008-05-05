@@ -1,0 +1,4 @@
+category: Perl
+requires: perl perl-Class-Accessor
+sdesc: "Perl chained accessors module"
+ldesc: "Perl module to make chained accessors"
