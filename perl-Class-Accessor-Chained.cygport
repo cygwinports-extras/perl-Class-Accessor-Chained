@@ -1,0 +1,11 @@
+CPAN_AUTHOR=rclamp
+inherit perl
+
+NAME="perl-Class-Accessor-Chained"
+VERSION=0.01
+RELEASE=2
+CATEGORY="Perl"
+SUMMARY="Perl distribution Class-Accessor-Chained"
+DESCRIPTION="Perl module to make chained accessors"
+
+ARCH=noarch
